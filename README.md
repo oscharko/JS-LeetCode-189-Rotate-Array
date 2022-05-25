@@ -22,6 +22,6 @@ Given an array, rotate the array to the right by k steps, where k is non-negativ
 - 0 <= k <= 105
 
 ## first Solution
-[LeetCode]()
+[LeetCode](https://leetcode.com/submissions/detail/707034140/)
 
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-189-Rotate-Array)](https://replit.com/@oscharko/JS-LeetCode-189-Rotate-Array)
